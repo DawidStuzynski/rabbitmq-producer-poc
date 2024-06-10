@@ -13,3 +13,4 @@ class ProduceMessageController(private val produceMessageService: ProduceMessage
         return produceMessageService.produceMessage(message)
     }
 }
+

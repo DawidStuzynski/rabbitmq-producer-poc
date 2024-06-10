@@ -9,3 +9,4 @@ class RabbitmqProducerPocApplication
 fun main(args: Array<String>) {
 	runApplication<RabbitmqProducerPocApplication>(*args)
 }
+

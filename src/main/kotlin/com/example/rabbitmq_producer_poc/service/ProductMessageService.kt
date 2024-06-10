@@ -15,3 +15,4 @@ class ProduceMessageService(private val rabbitTemplate: RabbitTemplate) {
         return "Message($message) has been produced. eeeeeeeeeeeee"
     }
 }
+
